@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about coding and technology, and I�
 - 👀 I’m interested in **Web Development**, **Artificial Intelligence**, **Machine Learning**, **Cloud 'AWS'**, **DevOps** and **Software Engineering**.
 - 🌱 I’m currently learning **JavaScript**, **Python**, **AI**, and **Data Structures**.
 - 💞️ I’m looking to collaborate on **open-source projects**, **web apps**, and **AI-driven solutions**.
-- 📫 How to reach me: You can email me at [sakshyamjk@gmail.com](mailto:sakshyamjk@gmail.com) or reach me on [LinkedIn]([(https://www.linkedin.com/in/sakshyam-karki-3622a8285/)]).
+- 📫 How to reach me: You can email me at [sakshyamjk@gmail.com](mailto:sakshyamjk@gmail.com) or reach me on [LinkedIn](https://www.linkedin.com/in/sakshyam-karki-3622a8285/).
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I love playing fifa, ml and exploring new AI-based games in my free time!
 
